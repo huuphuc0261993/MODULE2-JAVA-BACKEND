@@ -2,7 +2,7 @@ package chap01;
 
 import java.util.Scanner;
 
-public class soNguyenTo {
+public class SoNguyenTo {
     public static void main(String[] args) {
         System.out.println("Enter your number: ");
         Scanner scanner = new Scanner(System.in);
