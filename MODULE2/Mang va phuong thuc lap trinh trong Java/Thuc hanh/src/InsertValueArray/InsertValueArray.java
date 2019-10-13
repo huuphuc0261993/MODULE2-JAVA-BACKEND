@@ -27,7 +27,6 @@ public class InsertValueArray {
                 array[i] = array[i-1];
             }
             array[index]=insertNumber;
-
         }
 
         System.out.println("Mang moi duoc khoi tao la: ");
