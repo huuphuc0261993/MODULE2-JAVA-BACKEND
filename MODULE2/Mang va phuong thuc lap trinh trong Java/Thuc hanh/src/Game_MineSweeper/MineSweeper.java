@@ -10,7 +10,7 @@ public class MineSweeper {
         int colum;
         int boom;
 
-//        Random rd = new Random();
+        Random rd = new Random();
         Scanner input = new Scanner(System.in);
         System.out.println("Nhap so hang trong mang: ");
         row     = input.nextInt();
@@ -20,13 +20,18 @@ public class MineSweeper {
         boom     = input.nextInt();
 //Truyen gia tri cho mang
         System.out.println("Mang duoc khoi tao la: ");
-        String[][]matrix = new String[row][colum];
+        int[][]matrix = new int[row][colum];
         for (int i=0;i<matrix.length;i++){
             for (int j=0; j<matrix[i].length;j++){
-                matrix[i][j]=".";
+                matrix[i][j]=0;
                 System.out.print(matrix[i][j]+" ");
             }
             System.out.println();
         }
+
+//Rai boom ngau nhien trong mang
+
+
+
     }
 }
