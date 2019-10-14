@@ -3,7 +3,6 @@ package HInhChuNhat;
 public class HinhChuNhat {
     double width, height;
     public HinhChuNhat(){
-
     }
     public HinhChuNhat(double width, double height) {
         this.width = width;
