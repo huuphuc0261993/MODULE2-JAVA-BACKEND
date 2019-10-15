@@ -15,5 +15,13 @@ public class Main {
         rectangle.setColor("violet");
         System.out.println(rectangle);
         System.out.println("---------------");
+
+        Triangle triangle = new Triangle();
+        triangle.setSide1(3.0);
+        triangle.setSide2(4.0);
+        triangle.setSide3(5.0);
+        triangle.setColor("yellow");
+        triangle.setFilled(false);
+        System.out.println(triangle);
     }
 }
