@@ -9,8 +9,8 @@ public class RemoveValueArray {
         int index;
 
         System.out.println("mang khi chua duoc xoa la: ");
-        for (int i = 0; i<array.length;i++){
-            System.out.print(array[i]+",");
+        for (int i = 0; i < array.length; i++) {
+            System.out.print(array[i] + ",");
         }
         System.out.println();
 
@@ -18,17 +18,17 @@ public class RemoveValueArray {
         System.out.println("Nhap vi tri ban muon xoa khoi mang: ");
         index = changeArray.nextInt();
 
-        if (index<0 || index>array.length-1){
+        if (index < 0 || index > array.length - 1) {
             System.out.println("Không xoa được phần tử trong mảng");
         } else {
-            for (int i = index; i<array.length-i; i++){
-                array[i]=array[i+1];
-        }
+            for (int i = index; i < array.length - i; i++) {
+                array[i] = array[i + 1];
+            }
         }
 
         System.out.println("Mang sau khi duoc xoa la: ");
-        for (int i=0;i<array.length;i++){
-            System.out.print(array[i]+",");
+        for (int i = 0; i < array.length; i++) {
+            System.out.print(array[i] + ",");
         }
     }
 }

@@ -27,11 +27,12 @@ public class InsertValueArray {
                 array[i] = array[i-1];
             }
             array[index]=insertNumber;
+
+            System.out.println("Mang moi duoc khoi tao la: ");
+            for (int i = 0; i<array.length;i++){
+                System.out.print(array[i]+",");
+            }
         }
 
-        System.out.println("Mang moi duoc khoi tao la: ");
-        for (int i = 0; i<array.length;i++){
-            System.out.print(array[i]+",");
-        }
     }
 }

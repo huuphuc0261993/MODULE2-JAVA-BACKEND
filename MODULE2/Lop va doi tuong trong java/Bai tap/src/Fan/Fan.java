@@ -1,15 +1,16 @@
 package Fan;
 
 public class Fan {
-    final int SLOW =1;
-    final int MEDIUM =2;
-    final int FAST =3;
+    public static final  int SLOW = 1;
+    public static final  int MEDIUM = 2;
+    public static final int FAST = 3;
 
-    private int speed       = SLOW;
-    private boolean on      = false;
-    private double radius   = 5;
-    private String color    = "blue";
-//SETTER
+    private int speed = SLOW;
+    private boolean on = false;
+    private double radius = 5;
+    private String color = "blue";
+
+    //SETTER
     public void setSpeed(int speed) {
         this.speed = speed;
     }
@@ -26,10 +27,11 @@ public class Fan {
         this.color = color;
     }
 
-//GETTER
+    //GETTER
     public int getSpeed() {
         return speed;
     }
+
 
     public boolean isOn() {
         return on;
@@ -44,13 +46,14 @@ public class Fan {
     }
 
     @Override
-    public String toString(){
-         return (isOn()? "toc do cua quat la " + getSpeed()
-                 + ", mau sac cua quat la " + getColor()
-                 + ", ban kinh cua quat la " + getRadius()
-                 + ", fan is on" : "mau sac cua quat la " + getColor()
-                 + ", ban kinh cua quat la " + getRadius()
-                 + ", fan is off" );
+    public String toString() {
+        String str = "Mau sac cua quat la " + getColor()
+                + ", ban kinh cua quat la " + getRadius();
+
+        str += isOn()? ", toc do cua quat la " + getSpeed() +", fan is on"
+                :", fan is off";
+        return str;
     }
+
 
 }
