@@ -19,9 +19,7 @@ public class Point2D {
         return this.x;
     }
 
-    public float getY() {
-        return this.y;
-    }
+    public float getY() { return this.y; }
 
     public float[] getXY(){
         float[]position = {this.x,this.y};
