@@ -13,7 +13,7 @@ public class Main {
             System.out.println(arr[i].resize(0));
         }
         System.out.println("----------------");
-        System.out.println("Before Area increase :");
+        System.out.println("After Area increase :");
         double random = Math.random();
         System.out.println(random);
 
