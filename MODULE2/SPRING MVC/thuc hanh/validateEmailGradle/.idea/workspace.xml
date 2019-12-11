@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8817b75-30a7-476b-b6ac-60d30a4fcc80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Cau truc du lieu va giai thuat co ban/Cau truc du lieu va giai thuat co ban.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Cau truc du lieu va giai thuat co ban/src/MyList/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP và JSTL/Bai tap/Hien thi danh sach khach hang/Hien thi danh sach khach hang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP và JSTL/Bai tap/Hien thi danh sach khach hang/src/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP và JSTL/Thuc hanh/Chuyen doi tien te/Chuyen doi tien te.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP và JSTL/Thuc hanh/Chuyen doi tien te/web/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP và JSTL/Thuc hanh/Ung dung tu dien don gian/simple_dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP và JSTL/Thuc hanh/Ung dung tu dien don gian/web/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/.idea/Bai tap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/Quan ly san pham.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/src/quanlysanpham/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/src/quanlysanpham/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/src/quanlysanpham/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/src/quanlysanpham/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/web/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/web/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/web/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/web/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/web/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Bai tap/Quan ly san pham/web/product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/java-web-mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/src/com/codegym/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/src/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/src/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/src/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/web/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/web/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/web/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/web/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/web/customer/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/web/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Giao trinh/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Thuc hanh/Hien thi thong tin khach hang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Thuc hanh/Hien thi thong tin khach hang/Hien thi thong tin khach hang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Thuc hanh/Hien thi thong tin khach hang/src/com/codegym/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Thuc hanh/Hien thi thong tin khach hang/src/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Thuc hanh/Hien thi thong tin khach hang/src/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Thuc hanh/Hien thi thong tin khach hang/src/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MVC/Thuc hanh/MVC-MySQL-Demo/MVC-MySQL-Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Mang va phuong thuc lap trinh trong Java/Thuc hanh/out/production/Practice/RemoveValueArray/.idea/RemoveValueArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Mang va phuong thuc lap trinh trong Java/Thuc hanh/src/RemoveValueArray/.idea/RemoveValueArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/currency/ex2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/dictionary/ex3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ex1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ex1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ex1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ex1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/ex1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/src/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/src/com/codegym/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/src/com/codegym/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/src/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/web/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/web/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/login/web/WEB-INF/views/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/src/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/src/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/src/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/src/com/codegym/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/src/com/codegym/repository/ProductRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/src/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/src/com/codegym/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/web/WEB-INF/views/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/web/WEB-INF/views/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/web/WEB-INF/views/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/web/WEB-INF/views/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/product/web/WEB-INF/views/product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/springGreeting/springGreeting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/springGreeting/src/controllers/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/springGreeting/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/springGreeting/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../example/springGreeting/web/WEB-INF/views/greeting.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emailHopLeMaven/emailHopLeMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Bai Tap/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Bai Tap/Calculator/src/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Hien Thi Thoi Gian He Thong/Hien Thi Thoi Gian He Thong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Hien Thi Thoi Gian He Thong/src/SeverTimeServelet/SeverTimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Hien thi loi chao/Hien thi loi chao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Hien thi loi chao/src/Login/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Tu dien don gian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Tu dien don gian/Tu dien don gian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Tu dien don gian/src/translate/Servlet_translate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Ung dung chuyen doi tien te/Ung dung chuyen doi tien te.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tong Quan Ung Dung Web/Thuc Hanh/Ung dung chuyen doi tien te/src/Convert/ServletConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../hakaton/final/src/AModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../hakaton/spring-email-validation/src/main/webapp/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../hakaton/spring-email-validation/src/main/webapp/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../hakaton/test1/src/severlet/severlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../hakaton/test1/src/severlet/view.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../hakaton/test1/test1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../MODULE2-JAVA-BACKEND" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../udo systemctl start mysql" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U8XJdCA5vjnvc5jrZplTU2L0Kp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8817b75-30a7-476b-b6ac-60d30a4fcc80" name="Default Changelist" comment="" />
+      <created>1574739125061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574739125061</updated>
+      <workItem from="1574739126347" duration="7000" />
+      <workItem from="1574739211486" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

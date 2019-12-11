@@ -1,0 +1,22 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: phuc
+  Date: 04/11/2019
+  Time: 13:48
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+  <head>
+    <title>$Title$</title>
+    <meta>
+  </head>
+  <body>
+  <h2>Vietnamese Dictionary</h2>
+  <form action="/translate" method="post">
+    <input type="text" placeholder="Enter your word: " name="txtSearch">
+    <input type="submit" id="submit" value="Search">
+  </form>
+
+  </body>
+</html>

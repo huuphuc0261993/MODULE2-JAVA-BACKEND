@@ -45,4 +45,13 @@ public class CustomerServiceImpl implements CustomerService{
     public void remove(int id) {
         customers.remove(id);
     }
+
+    @Override
+    public Customer findByName(String name) {
+        for(Customer value:customers.values()){
+            if(value.getName().contains(name))
+                return value;
+        }
+        return null;
+    }
 }

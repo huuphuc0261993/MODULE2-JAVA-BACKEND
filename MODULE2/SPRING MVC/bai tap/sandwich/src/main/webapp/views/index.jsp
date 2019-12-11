@@ -1,3 +1,4 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <%--
   Created by IntelliJ IDEA.
   User: phuc
@@ -11,6 +12,14 @@
     <title>Title</title>
 </head>
 <body>
-
+    <h1>Sandwich Condiments</h1>
+<form method="post" action="/save">
+    <input type="checkbox" name="check" value="Lettuce">Lettuce
+    <input type="checkbox" name="check" value="Tomato">Tomato
+    <input type="checkbox" name="check" value="Mustard">Mustard
+    <input type="checkbox" name="check" value="Sprouts">Sprouts
+    <hr>
+    <input type="submit" value="save">
+</form>
 </body>
 </html>

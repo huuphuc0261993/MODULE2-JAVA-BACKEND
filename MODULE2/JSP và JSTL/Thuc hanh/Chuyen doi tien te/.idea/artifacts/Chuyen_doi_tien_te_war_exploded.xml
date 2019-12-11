@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Chuyen doi tien te:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chuyen_doi_tien_te_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Chuyen doi tien te/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Chuyen doi tien te" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.servlet:jstl:1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

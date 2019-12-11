@@ -11,6 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-
+Gia vi ban da chon la:
+${string}
 </body>
 </html>

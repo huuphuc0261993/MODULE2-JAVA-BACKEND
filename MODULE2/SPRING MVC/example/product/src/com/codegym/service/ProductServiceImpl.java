@@ -2,14 +2,15 @@ package com.codegym.service;
 
 import com.codegym.model.Product;
 import com.codegym.repository.ProductRepository;
+import com.codegym.repository.ProductRepositoryImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
 public class ProductServiceImpl implements ProductService {
 
-    @Autowired
-    public ProductRepository productRepository;
+//    @Autowired
+    public ProductRepository productRepository = new ProductRepositoryImpl();
 
     @Override
     public List<Product> findAll() {
@@ -24,5 +25,10 @@ public class ProductServiceImpl implements ProductService {
     @Override
     public void save(Product product) {
         this.productRepository.save(product);
+    }
+
+    @Override
+    public void remove(int key) {
+    this.productRepository.remmove(key);
     }
 }

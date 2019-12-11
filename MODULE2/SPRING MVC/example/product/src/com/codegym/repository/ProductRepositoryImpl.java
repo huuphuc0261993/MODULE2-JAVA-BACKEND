@@ -36,4 +36,11 @@ public class ProductRepositoryImpl implements ProductRepository {
     public void save(Product product) {
         products.put(product.getId(), product);
     }
+
+    @Override
+    public void remmove(int key) {
+    products.remove(key);
+    }
+
+
 }

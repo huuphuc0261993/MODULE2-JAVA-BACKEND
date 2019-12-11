@@ -1,5 +1,8 @@
 package com.codegym.controller;
 
+import com.codegym.service.CustomerService;
+import com.codegym.service.CustomerServiceImpl;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -9,8 +12,8 @@ import java.io.IOException;
 
 @WebServlet(name = "CustomerServlet")
 public class CustomerServlet extends HttpServlet {
+    private CustomerService customerService = new CustomerServiceImpl();
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
